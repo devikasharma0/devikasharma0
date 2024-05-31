@@ -1,12 +1,11 @@
-# Hi there, I'm Devika 👋 
+# Hi there, I'm Devika 👋🏼
 
 ## 🚀 About Me
 I am a passionate web developer eager to contribute to open source projects and explore new technologies. I love connecting with like-minded individuals and collaborating on projects that make a difference!.
-<img align="right" width="150" height="150" src="">
 
----
+<br/>
 
----
+
 # Skills <img align="center" src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="40">
 
 
@@ -23,12 +22,15 @@ I am a passionate web developer eager to contribute to open source projects and 
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 ![Devika's GitHub stats](https://github-readme-stats.vercel.app/api?username=devikasharma0&show_icons=true&theme=radical)
 ![Devika's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devikasharma0&theme=radical)
 
 
 ---
-## Find me around the web 🌎: 
+## You can also connect with me here 🖇️: 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devika-s-136947219)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/devikasharma0)
+<br/>
+<img align="left" width="200" height="200" src="https://github.com/devikasharma0/devikasharma0/blob/main/octocat-1717158248794.png">
+
